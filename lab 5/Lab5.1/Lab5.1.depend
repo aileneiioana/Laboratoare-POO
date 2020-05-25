@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585204222 source:c:\users\u\desktop\lab5 (1)\lab5.1\main.cpp
+	<iostream>
+	"employee1.h"
+
+1585205039 c:\users\u\desktop\lab5 (1)\lab5.1\include\employee1.h
+	"data1.h"
+
+1585204222 c:\users\u\desktop\lab5 (1)\lab5.1\include\data1.h
+
+1585205051 source:c:\users\u\desktop\lab5 (1)\lab5.1\src\data1.cpp
+	<iostream>
+	"data1.h"
+
+1585205058 source:c:\users\u\desktop\lab5 (1)\lab5.1\src\employee1.cpp
+	<iostream>
+	<cstring>
+	"employee1.h"
+	"data1.h"
+

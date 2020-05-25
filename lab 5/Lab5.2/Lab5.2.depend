@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1585208357 source:c:\users\u\desktop\lab5 (1)\lab5.2\main.cpp
+	<iostream>
+	"dreapta.h"
+
+1585208357 c:\users\u\desktop\lab5 (1)\lab5.2\include\dreapta.h
+	"punct.h"
+
+1585208208 c:\users\u\desktop\lab5 (1)\lab5.2\include\punct.h
+
+1585208357 source:c:\users\u\desktop\lab5 (1)\lab5.2\src\dreapta.cpp
+	<iostream>
+	"dreapta.h"
+	"punct.h"
+
+1585208208 source:c:\users\u\desktop\lab5 (1)\lab5.2\src\punct.cpp
+	<iostream>
+	"punct.h"
+
+1585208358 source:c:\users\user\onedrive\desktop\lab 5\lab5.2\main.cpp
+	<iostream>
+	"dreapta.h"
+
+1585208358 c:\users\user\onedrive\desktop\lab 5\lab5.2\include\dreapta.h
+	"punct.h"
+
+1585208210 c:\users\user\onedrive\desktop\lab 5\lab5.2\include\punct.h
+
+1585208358 source:c:\users\user\onedrive\desktop\lab 5\lab5.2\src\dreapta.cpp
+	<iostream>
+	"dreapta.h"
+	"punct.h"
+
+1585208210 source:c:\users\user\onedrive\desktop\lab 5\lab5.2\src\punct.cpp
+	<iostream>
+	"punct.h"
+
