@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1587023008 source:c:\oji\8.2\main.cpp
+	<iostream>
+	"DataandTime.h"
+
+1587023087 c:\oji\8.2\include\dataandtime.h
+	"Time.h"
+
+1587023087 c:\oji\8.2\include\time.h
+	<iostream>
+
+1587023087 source:c:\oji\8.2\src\time.cpp
+	"Time.h"
+	<iostream>
+
+1587023087 source:c:\oji\8.2\src\dataandtime.cpp
+	"DataandTime.h"
+	<iostream>
+
+1587023304 source:c:\users\user\desktop\8.2\main.cpp
+	<iostream>
+	"DataandTime.h"
+
+1587023087 c:\users\user\desktop\8.2\include\dataandtime.h
+	"Time.h"
+
+1587023087 c:\users\user\desktop\8.2\include\time.h
+	<iostream>
+
+1587023087 source:c:\users\user\desktop\8.2\src\dataandtime.cpp
+	"DataandTime.h"
+	<iostream>
+
+1587023087 source:c:\users\user\desktop\8.2\src\time.cpp
+	"Time.h"
+	<iostream>
+
+1587023304 source:c:\users\user\desktop\lab8\8.2\main.cpp
+	<iostream>
+	"DataandTime.h"
+
+1587023087 c:\users\user\desktop\lab8\8.2\include\dataandtime.h
+	"Time.h"
+
+1587023087 c:\users\user\desktop\lab8\8.2\include\time.h
+	<iostream>
+
+1587023087 source:c:\users\user\desktop\lab8\8.2\src\dataandtime.cpp
+	"DataandTime.h"
+	<iostream>
+
+1587023087 source:c:\users\user\desktop\lab8\8.2\src\time.cpp
+	"Time.h"
+	<iostream>
+

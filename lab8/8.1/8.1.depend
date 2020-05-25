@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1587020770 source:c:\oji\8.1\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1587020770 c:\oji\8.1\include\point.h
+	<iostream>
+
+1587020770 c:\oji\8.1\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587020770 c:\oji\8.1\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587020770 source:c:\users\user\desktop\8.1\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1587020770 c:\users\user\desktop\8.1\include\point.h
+	<iostream>
+
+1587020770 c:\users\user\desktop\8.1\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1587020770 c:\users\user\desktop\8.1\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1587020795 source:c:\users\user\desktop\8.1\src\circle.cpp
+	"circle.h"
+
+1587020770 source:c:\users\user\desktop\8.1\src\cylinder.cpp
+	"cylinder.h"
+
+1587020770 source:c:\users\user\desktop\8.1\src\point.cpp
+	<iostream>
+	"point.h"
+
