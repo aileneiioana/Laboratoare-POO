@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1586412839 source:c:\users\u\desktop\7.1\main.cpp
+	"HourlyWorker.h"
+
+1586412839 c:\users\u\desktop\7.1\include\hourlyworker.h
+	"Employee.h"
+	<iostream>
+
+1586412839 c:\users\u\desktop\7.1\include\employee.h
+	<iostream>
+
+1586412839 source:c:\users\u\desktop\7.1\src\employee.cpp
+	"Employee.h"
+
+1586412839 source:c:\users\u\desktop\7.1\src\hourlyworker.cpp
+	"HourlyWorker.h"
+	<iomanip>
+
