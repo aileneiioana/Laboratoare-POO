@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1589815034 source:c:\oji\pclp_tema2\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Student.h"
+
+1589815188 source:c:\oji\pclp_tema2\src\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1589809403 c:\oji\pclp_tema2\include\persoana.h
+	<iostream>
+
+1589815022 c:\oji\pclp_tema2\include\student.h
+	"Persoana.h"
+	<iostream>
+	<vector>
+
+1589815321 source:c:\oji\pclp_tema2\src\student.cpp
+	"Student.h"
+	<vector>
+	<iostream>
+
+1589815188 source:c:\users\user\onedrive\desktop\pclp_tema2\src\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1589809403 c:\users\user\onedrive\desktop\pclp_tema2\include\persoana.h
+	<iostream>
+
+1589815321 source:c:\users\user\onedrive\desktop\pclp_tema2\src\student.cpp
+	"Student.h"
+	<vector>
+	<iostream>
+
+1589815022 c:\users\user\onedrive\desktop\pclp_tema2\include\student.h
+	"Persoana.h"
+	<iostream>
+	<vector>
+
+1589815927 source:c:\users\user\onedrive\desktop\pclp_tema2\main.cpp
+	<iostream>
+	"Persoana.h"
+	"Student.h"
+	"Profesor.h"
+
+1589817271 c:\users\user\onedrive\desktop\pclp_tema2\include\profesor.h
+	<iostream>
+	"Persoana.h"
+	<vector>
+
+1589822823 source:c:\users\user\onedrive\desktop\pclp_tema2\src\profesor.cpp
+	"Profesor.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
