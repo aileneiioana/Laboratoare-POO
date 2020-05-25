@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1586342421 source:c:\users\u\desktop\pclp_tema 1\main.cpp
+	<iostream>
+	"Sfera.h"
+
+1586342658 c:\users\u\desktop\pclp_tema 1\include\sfera.h
+	<iostream>
+	"Punct3D.h"
+
+1586342658 c:\users\u\desktop\pclp_tema 1\include\punct3d.h
+	<iostream>
+
+1585997962 source:c:\users\u\desktop\pclp_tema 1\src\punct3d.cpp
+	"Punct3D.h"
+
+1585999236 source:c:\users\u\desktop\pclp_tema 1\src\sfera.cpp
+	"Sfera.h"
+	<math.h>
+
