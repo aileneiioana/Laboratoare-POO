@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1588851814 source:c:\oji\10.2\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1588850924 c:\oji\10.2\include\point.h
+	<iostream>
+
+1588850345 c:\oji\10.2\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1588850345 c:\oji\10.2\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1588851111 source:c:\oji\10.2\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1588851111 source:c:\oji\10.2\src\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1588851111 source:c:\oji\10.2\src\point.cpp
+	<iostream>
+	"point.h"
+
+1588972687 source:c:\users\user\desktop\10.2\src\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1588850345 c:\users\user\desktop\10.2\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1588850345 c:\users\user\desktop\10.2\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1588850924 c:\users\user\desktop\10.2\include\point.h
+	<iostream>
+
+1588972687 source:c:\users\user\desktop\10.2\src\point.cpp
+	<iostream>
+	"point.h"
+
+1588972687 source:c:\users\user\desktop\10.2\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1588972687 source:c:\users\user\desktop\10.2\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1588969087 source:c:\users\user\onedrive\desktop\lab10\10.2\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
+1588847324 c:\users\user\onedrive\desktop\lab10\10.2\include\point.h
+	<iostream>
+
+1588846745 c:\users\user\onedrive\desktop\lab10\10.2\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1588846745 c:\users\user\onedrive\desktop\lab10\10.2\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1588969087 source:c:\users\user\onedrive\desktop\lab10\10.2\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1588969087 source:c:\users\user\onedrive\desktop\lab10\10.2\src\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1588969087 source:c:\users\user\onedrive\desktop\lab10\10.2\src\point.cpp
+	<iostream>
+	"point.h"
+
+1588969087 source:c:\users\user\onedrive\desktop\pclp\lab10\10.2\src\circle.cpp
+	"circle.h"
+	<iostream>
+
+1588846745 c:\users\user\onedrive\desktop\pclp\lab10\10.2\include\circle.h
+	<iostream>
+	<iomanip>
+	"point.h"
+
+1588847324 c:\users\user\onedrive\desktop\pclp\lab10\10.2\include\point.h
+	<iostream>
+
+1588969087 source:c:\users\user\onedrive\desktop\pclp\lab10\10.2\src\cylinder.cpp
+	"cylinder.h"
+	<iostream>
+
+1588846745 c:\users\user\onedrive\desktop\pclp\lab10\10.2\include\cylinder.h
+	<iostream>
+	"circle.h"
+
+1588969087 source:c:\users\user\onedrive\desktop\pclp\lab10\10.2\src\point.cpp
+	<iostream>
+	"point.h"
+
+1591262031 source:c:\users\user\onedrive\desktop\pclp\lab10\10.2\main.cpp
+	<iostream>
+	"point.h"
+	"circle.h"
+	"cylinder.h"
+
