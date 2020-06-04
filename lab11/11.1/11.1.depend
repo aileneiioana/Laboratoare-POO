@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590413560 source:c:\oji\11.1\main.cpp
+	<iostream>
+	"stack.h"
+
+1590413637 c:\oji\11.1\include\stack.h
+
+1590413644 source:c:\oji\11.1\src\stack.cpp
+	"Stack.h"
+
+1590413560 source:c:\users\user\onedrive\desktop\lab11\11.1\main.cpp
+	<iostream>
+	"stack.h"
+
+1590413637 c:\users\user\onedrive\desktop\lab11\11.1\include\stack.h
+
+1590413644 source:c:\users\user\onedrive\desktop\lab11\11.1\src\stack.cpp
+	"Stack.h"
+

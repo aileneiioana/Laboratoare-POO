@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1590415262 source:c:\oji\11.2\main.cpp
+	<iostream>
+	"queue.h"
+
+1590415349 source:c:\oji\11.2\src\queue.cpp
+	"Queue.h"
+
+1590418471 c:\oji\11.2\include\queue.h
+
+1590415262 source:c:\users\user\onedrive\desktop\lab11\11.2\main.cpp
+	<iostream>
+	"queue.h"
+
+1590649553 c:\users\user\onedrive\desktop\lab11\11.2\include\queue.h
+
+1590418692 source:c:\users\user\onedrive\desktop\lab11\11.2\src\queue.cpp
+	"Queue.h"
+
