@@ -1,1 +1,1 @@
-# Laboratoare-PCLP2
+# Laboratoare-POO
